@@ -1,2 +1,0 @@
-# sampleRest
-Sample Rest
